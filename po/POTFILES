@@ -1,0 +1,7 @@
+data/text.edit.simple.desktop.in
+data/text.edit.simple.appdata.xml.in
+data/text.edit.simple.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
